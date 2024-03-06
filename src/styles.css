@@ -1,0 +1,17 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.input-text * {
+  border-color: transparent !important;
+}
+.icon-mg {
+  padding-right: 5px;
+}
+.icon-white {
+  color: white;
+  font-size: 50px;
+}
