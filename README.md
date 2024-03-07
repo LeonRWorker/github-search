@@ -6,7 +6,7 @@ Esse projeto é um desafio proposto pelo site [Frontend Mentor](https://www.fron
 
 ## ☁ Demonstração
 
-- Visualizar [Github Search](https://gitub-search-leonrworker.vercel.app "Github Search") em Produção.
+- Visualizar [Github Search](https://github-search-leonrworker.vercel.app "Github Search") em Produção.
 
 ## 💻Tecnologias 
 
